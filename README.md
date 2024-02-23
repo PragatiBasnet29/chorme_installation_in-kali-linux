@@ -1,6 +1,3 @@
-# chorme_installation_in-kali-linux
-Certainly! Here's a sample README file for installing Google Chrome on Kali Linux:
-
 ---
 
 # Installing Google Chrome on Kali Linux
